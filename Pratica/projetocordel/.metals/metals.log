@@ -1,0 +1,18 @@
+2022.12.18 09:39:43 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Pedro\Documents\Estudos\HTML-CSS\Pratica\projetocordel\.metals\lsp.trace.json or C:\Users\Pedro\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.18 09:39:47 INFO  logging to file C:\Users\Pedro\Documents\Estudos\HTML-CSS\Pratica\projetocordel\.metals\metals.log
+2022.12.18 09:39:47 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Pedro\Documents\Estudos\HTML-CSS\Pratica\projetocordel' for client Visual Studio Code 1.74.1.
+2022.12.18 09:39:47 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(8), jdkHome: C:\Program Files (x86)\Java\jre1.8.0_351, javac exists: false)
+2022.12.18 09:39:50 INFO  time: initialize in 3.1s
+2022.12.18 09:39:52 WARN  Build server is not auto-connectable.
+2022.12.18 09:39:52 WARN  no build tool detected in workspace 'C:\Users\Pedro\Documents\Estudos\HTML-CSS\Pratica\projetocordel'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.18 09:40:04 INFO  shutting down Metals
+2022.12.18 16:05:54 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Pedro\Documents\Estudos\HTML-CSS\Pratica\projetocordel\.metals\lsp.trace.json or C:\Users\Pedro\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.18 16:05:57 INFO  logging to file C:\Users\Pedro\Documents\Estudos\HTML-CSS\Pratica\projetocordel\.metals\metals.log
+2022.12.18 16:05:57 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Pedro\Documents\Estudos\HTML-CSS\Pratica\projetocordel' for client Visual Studio Code 1.74.1.
+2022.12.18 16:05:57 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(8), jdkHome: C:\Program Files (x86)\Java\jre1.8.0_351, javac exists: false)
+2022.12.18 16:05:58 INFO  time: initialize in 1.19s
+2022.12.18 16:05:59 WARN  Build server is not auto-connectable.
+2022.12.18 16:05:59 WARN  no build tool detected in workspace 'C:\Users\Pedro\Documents\Estudos\HTML-CSS\Pratica\projetocordel'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+dez 18, 2022 4:08:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+2022.12.18 16:08:15 INFO  shutting down Metals
