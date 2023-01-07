@@ -1,8 +1,9 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@font-face{
+
+@font-face {
     font-family: 'Android';
-    src: url('../fontes/idroid.otf') format('opentype');
+    src: url(../fontes/idroid.otf) format('opentype');
     font-weight: normal;
 }
 :root{
@@ -44,8 +45,6 @@ header  h1{
     font-weight: normal;
     font-size: 3em;
     text-shadow: 2px 2px 0px black ;
-
-
 }
 header > p {
     font-family: var(--fontepadrao);
@@ -60,7 +59,7 @@ header > p {
 }
 nav{
     background-color: var(--cor5);
-    padding: 10px;
+    padding:10px;
     box-shadow: 0px 7px 7px black;
 
 }
@@ -70,12 +69,13 @@ nav a {
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
-    transition-duration: 0.5s;
+    
 }
-nav > a:hover{
+
+nav a:hover{
     background-color: var(--cor3);
-    color: var(--cor5);
 }
+
 main{
     min-width:300px ;
     max-width: 1000px;
@@ -119,7 +119,7 @@ main a{
     font-weight: bold;
     color: var(--cor5);
     background-color: var(--cor1);
-    padding: 3px 6px;
+    padding: 6px 2px;
 }
 main a:hover{
     text-decoration: underline;
@@ -161,7 +161,7 @@ aside h3 {
 }
 aside > ul{
     list-style-position: inside;
-    list-style-type: '\2714';
+    list-style-type: '\00A0\00A0\2714';
     columns: 2;
     
 }
